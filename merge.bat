@@ -1,0 +1,1 @@
+copy/b *.ts all.ts
