@@ -12,6 +12,8 @@
 
 **但是缓冲下来的视频只能在当前浏览器里观看，如果从手机的文件浏览器查看是不能直接播放的，你看到的也只是几十KB的m3u8文件，而不是完整的视频文件。而且不能传到电脑或者网盘里。**
 
+**如果需要合并缓冲的文件，需要下载文件合并APP，请参考：[手机uc视频缓冲合并教程](http://jingyan.baidu.com/article/d2b1d1029b67a75c7e37d420.html "手机uc视频缓冲合并教程")**
+
 ### 方法步骤
 
 这里假设使用QQ手机浏览器
@@ -229,3 +231,9 @@ copy/b *.ts all.ts
 
 > PS：刚才用火狐浏览器也下载了一段视频，也没用了，可以删掉。
 
+
+## 参考
+
+- [斗鱼网视频下载方法视频教程](http://v.youku.com/v_show/id_XMjIyMTM5NzUzMg==.html "斗鱼网视频下载方法视频教程")
+- [UC浏览器（安卓版）如何下载或者缓存视频？](http://jingyan.baidu.com/article/f7ff0bfc196a312e26bb1315.html "UC浏览器（安卓版）如何下载或者缓存视频？")
+- [手机uc视频缓冲合并教程](http://jingyan.baidu.com/article/d2b1d1029b67a75c7e37d420.html "手机uc视频缓冲合并教程")
